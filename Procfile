@@ -1,1 +1,0 @@
-sh setup.sh && streamlit run dvh-app.ipynb
