@@ -1,2 +1,0 @@
-streamlit==0.81.0
-pyngrok==4.1.1
