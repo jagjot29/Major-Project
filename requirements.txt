@@ -1,0 +1,4 @@
+streamlit
+os
+pyngrok==4.1.1
+textblob
