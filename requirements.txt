@@ -1,3 +1,0 @@
-streamlit==0.81.0
-pyngrok==4.1.1
-textblob==0.9.0
